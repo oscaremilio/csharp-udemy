@@ -8,7 +8,7 @@ Realizado por oscaremilio.
 
 using System;
 
-public class Ejercicio_1_09_1
+public class Ejercicio_2_01
 {
     public static void Main()
     {   
