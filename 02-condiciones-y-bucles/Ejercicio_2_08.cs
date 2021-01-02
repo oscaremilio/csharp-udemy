@@ -27,6 +27,14 @@ class Ejercicio_2_06
                 Console.Write("{0} ", i);
             }
         }
+
+        // Otra opción
+        /*
+          for(int i=2; i<=16; i = i + 2)
+        {
+                Console.Write("{0} ", i);
+        }
+        */
         
         Console.WriteLine();
         
@@ -37,5 +45,13 @@ class Ejercicio_2_06
                 Console.Write("{0} ", i);
             }
         }
+
+        // Otra opción
+        /*
+        for(int i=15; i>=5; i = i - 2)
+        {
+                Console.Write("{0} ", i);
+        }
+        */
     }  
 }
