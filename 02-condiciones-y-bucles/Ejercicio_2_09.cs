@@ -1,6 +1,6 @@
-
 /*
-Programa que muestra los números del 1 al 20, excepto el 10, usando "continue", y los números del 1 al 20, deteniendolo en 10 usando "break".
+Programa que muestra los números del 1 al 20, excepto el 10, usando "continue", 
+y los números del 1 al 20, deteniendolo en 10 usando "break".
 */
 
 
