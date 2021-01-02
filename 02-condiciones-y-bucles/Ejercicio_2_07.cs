@@ -7,7 +7,7 @@ Debes usar "Do-While".
 
 using System;
 
-class Ejercicio_2_06
+class Ejercicio_2_07
 {
     public static void Main()
     {
