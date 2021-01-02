@@ -9,7 +9,7 @@ Usando bucles con "for":
 
 using System;
 
-class Ejercicio_2_06
+class Ejercicio_2_08
 {
     public static void Main()
     {
